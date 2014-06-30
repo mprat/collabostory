@@ -291,13 +291,53 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "collabostory/collabostory/settings.py",
+			"settings":
+			{
+				"buffer_size": 5388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "collabostory/posts/views.py",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "collabostory/posts/templates/posts/index.html",
+			"settings":
+			{
+				"buffer_size": 138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "collabostory/posts/templates/posts/base_story.html",
+			"settings":
+			{
+				"buffer_size": 310,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 201.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
 			[
 				"side",
 				"View: Toggle Side Bar"
@@ -400,6 +440,10 @@
 	},
 	"file_history":
 	[
+		"/home/mprat/Documents/Michele/Repos/collabostory/collabostory/posts/models.py",
+		"/home/mprat/Documents/Michele/Repos/collabostory/collabostory/collabostory/urls.py",
+		"/home/mprat/Documents/Michele/Repos/collabostory/collabostory/posts/urls.py",
+		"/home/mprat/Documents/Michele/Repos/collabostory/collabostory/posts/admin.py",
 		"/home/mprat/Documents/Michele/Repos/collabostory/collabostory.sublime-project",
 		"/home/mprat/Documents/Michele/Repos/practicepython/css/main.css",
 		"/home/mprat/Documents/Michele/Repos/practicepython/_posts/2014-04-02-09-guessing-game-1.md",
@@ -523,11 +567,7 @@
 		"/home/mprat/Documents/Michele/Repos/y2-yearlong-django-review/toplists/toplists/settings.py",
 		"/home/mprat/Documents/Michele/Repos/y2-yearlong-django-review/toplists/movies/templates/movies/base.html",
 		"/home/mprat/Documents/Michele/Repos/gear-db-django/geardb/db_backup_5_20_14.sql",
-		"/home/mprat/Documents/Michele/Repos/gear-db-django/geardb/manage.py",
-		"/home/mprat/Documents/Michele/Repos/email_to_db_scripts/add_waivers.gs",
-		"/home/mprat/Documents/Michele/Repos/email_to_db_scripts/add_memberships.gs",
-		"/home/mprat/Documents/Michele/Repos/gear-db-django/geardb/migratemodels.py",
-		"/home/mprat/Documents/Michele/Repos/gear-db-django/.gitignore"
+		"/home/mprat/Documents/Michele/Repos/gear-db-django/geardb/manage.py"
 	],
 	"find":
 	{
@@ -691,8 +731,123 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "collabostory/collabostory/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4529,
+								4529
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1887.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "collabostory/posts/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "collabostory/posts/templates/posts/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "collabostory/posts/templates/posts/base_story.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

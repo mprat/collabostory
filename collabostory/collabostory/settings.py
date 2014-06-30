@@ -125,6 +125,7 @@ INSTALLED_APPS = (
     'posts',
     'django.contrib.admin',
     'django.contrib.admindocs',
+    'foundation',
 )
 
 # A sample logging configuration. The only tangible logging
